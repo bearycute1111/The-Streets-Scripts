@@ -1,2 +1,1 @@
-# The-Streets-Scripts
-Scripts for yev's remake of prison
+Scripts for yevs skidded game (Prison)
